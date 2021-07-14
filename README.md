@@ -1,4 +1,1 @@
-# api-nodejs
-Simples server com nodejs em javascript (Ah va e msm?!),
-que utiliza as requisicoes GET, POST, PUT, DELETE
-
+CRUD em NodeJS com sistema simples de autenticação via token e conexão com banco de dados.
